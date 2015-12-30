@@ -1,2 +1,2 @@
 # WisFeed
-testing
+This is WisFeed project.
